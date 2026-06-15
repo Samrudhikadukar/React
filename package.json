@@ -1,0 +1,29 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "this reactjs by namaste react",
+  "homepage": "https://github.com/Samrudhikadukar/React#readme",
+  "bugs": {
+    "url": "https://github.com/Samrudhikadukar/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samrudhikadukar/React.git"
+  },
+  "license": "ISC",
+  "author": "samrudhi kadukar",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jtest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "browserslist":[
+    "last 2 Version" 
+  ]
+}

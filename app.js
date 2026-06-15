@@ -1,3 +1,7 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
+
 // const heading = React.createElement("h1", {id:"heding"}, "Hi this is React");
 
 // console.log(heading);
@@ -18,7 +22,7 @@
 //ReactElement(object)=>HTML(Browser understand)
         const parent=React.createElement("div",{id:"parent"},
             React.createElement("div",{id:"child"}
-                ,React.createElement("h1",{},"this me samrudhi")));
+                ,React.createElement("h1",{},"this me samrudhi 💕")));
                 console.log(parent);
                 
 
